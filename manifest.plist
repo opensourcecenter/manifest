@@ -25,15 +25,15 @@
            <key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>xxyy.testapp</string>
+               <string>com.app.iosent</string>
                <key>bundle-version</key>
-               <string>1.1</string>
+               <string>1.0</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
                <string>副标题</string>
                <key>title</key>
-               <string>测试app</string>
+               <string>柏悦汇娱乐城</string>
            </dict>
        </dict>
    </array>
