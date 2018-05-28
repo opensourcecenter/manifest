@@ -1,0 +1,46 @@
+{
+    "g_urls": [
+        "ws://172.16.1.7:41234/gateway"
+    ],
+    "a_urls": [
+        "http://172.16.1.11"
+    ],
+    "c_urls": [
+        "ws://172.16.1.7:41234/gateway"
+    ],
+    "p_urls": [
+        "http://172.16.1.11:41007/sdk/order/pay"
+    ],
+    "cp_url": "http://172.16.1.11:41239",
+    "act_url": "",
+    "update": false,
+    "qs": "",
+    "uuids": [],
+    "a_u_url": "",
+    "i_u_url": "",
+    "ie_u_url": "",
+    "limit_values": [
+        [
+            10,
+            7500
+        ],
+        [
+            100,
+            15000
+        ],
+        [
+            300,
+            45000
+        ],
+        [
+            500,
+            75000
+        ],
+        [
+            1000,
+            150000
+        ]
+    ],
+    "vip_round_cost": 100,
+    "vip_person_limit": 5
+}
